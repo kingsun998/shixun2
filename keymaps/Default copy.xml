@@ -6,6 +6,9 @@
   <action id="ClassNameCompletion">
     <keyboard-shortcut first-keystroke="alt slash" />
   </action>
+  <action id="CodeCompletion">
+    <keyboard-shortcut first-keystroke="ctrl comma" />
+  </action>
   <action id="HippieBackwardCompletion">
     <keyboard-shortcut first-keystroke="ctrl alt space" />
   </action>
